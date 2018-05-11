@@ -1,0 +1,37 @@
+body {
+    background-color: #7f8c8d;
+    padding: 2em;
+    padding-top: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: normal;
+    color: white;
+    letter-spacing: 1px;
+}
+
+button {
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 20px;
+    padding: 2em;
+    padding-top: 2em;
+    background-color: blueviolet;
+    color: white;
+}
+
+#resultDiv {
+    font-family: 'Alfa Slab One', cursive;
+    line-height: 1em;
+}
+
+.selected {
+    border-bottom: black 5px solid;
+    padding: 0 0 0 0;
+}
+
+#colorDiv {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

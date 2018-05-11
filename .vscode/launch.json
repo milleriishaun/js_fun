@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/dates.js",
+            "program": "${workspaceFolder}/dom-nodes.js",
             "cwd": "${workspaceFolder}"
         }
     ]
