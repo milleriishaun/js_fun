@@ -26,3 +26,5 @@ let myFunction = new MyFunction();
 
 console.log(typeof myFunction);
 
+//building the portfolio and the kinds of websites
+// that people will look at
