@@ -5,6 +5,8 @@ let names = [ 'david', 'eddie', 'alex', 'michael', 'sammy' ];
 /* 
 [a, b, c, e, d] = names;
 
+//learn to deconstruct fast!
+
 console.log(a);
 console.log(b);
 console.log(c);
