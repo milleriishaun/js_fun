@@ -15,6 +15,8 @@ let sentence = `this is reall a conveinence.
 console.log(sentence);
  */
 
+
+//adding template literals to checklist
 function getReasonCount() { return 0; }
 
 let interpolation = `Give me ${ (getReasonCount() == 1) ? 'one good reason' : 'a few reasons'} to try this.`;
