@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/dom-nodes.js",
+            "program": "${workspaceFolder}/long_word.js",
             "cwd": "${workspaceFolder}"
         }
     ]
