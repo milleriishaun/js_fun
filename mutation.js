@@ -1,4 +1,4 @@
-function mutation(arr) {
+/* function mutation(arr) {
   console.log(arr);
   arr[0] = arr[0].toLowerCase();
   arr[1] = arr[1].toLowerCase();
@@ -30,7 +30,18 @@ function mutation(arr) {
   } else {
     return console.log(true);
   }
-}
+} */
+
+//better looking procedural code
+function mutation(arr) {
+  var test = arr[1].toLowerCase();
+  var target = arr[0].toLowerCase();
+  for (i=0;i<test.length;i++) {
+    if (target.indexOf(test[i]) === -1)
+      return false;
+  }
+  return true;
+ }
 
 mutation(["hello", "hey"]);
 mutation(["hello", "Hello"]);
