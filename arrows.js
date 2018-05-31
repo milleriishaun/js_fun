@@ -12,7 +12,8 @@ console.log(add(7, 3));
  */
 
 
-let names = ['david', 'eddie', 'alex', 'michael' ];
+
+let names = ['david', 'eddie', 'alex', 'michael', 'bob' ];
 /* 
 names.map( (x) => { console.log(`howdy ${x}!`) } );
 
