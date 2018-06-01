@@ -17,6 +17,7 @@ function rot13(str) { // LBH QVQ VG!
       newStr += codeStr;
     }
     return console.log(newStr);
+    // take out console log for freecodecamp
   }
   
   // Change the inputs below to test
