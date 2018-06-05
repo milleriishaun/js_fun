@@ -18,6 +18,7 @@ function rot13(str) { // LBH QVQ VG!
     }
     return console.log(newStr);
     // take out console log for freecodecamp
+    // herer is some kind of edit
   }
   
   // Change the inputs below to test
